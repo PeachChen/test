@@ -1,0 +1,11 @@
+g={
+	{abc="abc"},
+	{cd="dddd"},
+	teamskills={12,23,34,45,56},
+	{kill="mmm"},
+	bb="mmmmmdd",
+	[200]={
+		cdc="kdc"
+	}
+}
+ccprint(g)
